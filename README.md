@@ -18,7 +18,7 @@ The assistant supports both **single-query** and **multi-query** modes of operat
 
 ## Requirements
 
-FIREWORKS_API_KEY=your_fireworks_api_key
-SPOONACULAR_API_KEY=your_spoonacular_api_key
-WEATHERSTACK_API_KEY=your_weatherstack_api_key
+- FIREWORKS_API_KEY=your_fireworks_api_key
+- SPOONACULAR_API_KEY=your_spoonacular_api_key
+- WEATHERSTACK_API_KEY=your_weatherstack_api_key
 
